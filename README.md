@@ -2,6 +2,7 @@
 
 **[PLAY IT HERE](https://gh-dev-ws-0304.github.io/conflict-practice-JPHoesch/)**
 
+Or the orginal **[HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 ---
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
