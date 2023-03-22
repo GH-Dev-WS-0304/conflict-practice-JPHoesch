@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/NcsRW1q.png)
 
-**[PLAY IT HERE](http://ncase.me/polygons](https://github.com/GH-Dev-WS-0304/conflict-practice-JPHoesch)**
+**[PLAY IT HERE](https://github.com/GH-Dev-WS-0304/conflict-practice-JPHoesch)**
 
 ---
 
